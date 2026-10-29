@@ -78,7 +78,9 @@ All tests passed in Unity `6000.6.7f1`.
 
 ![PlayMode results](Evidences/playmode-results.png)
 
-![PlayMode results]<img width="771" height="950" alt="image" src="https://github.com/user-attachments/assets/8d692f29-46f7-43b4-bd4f-a059a6dad40e" />
+### Code
+
+<img width="771" height="950" alt="image" src="https://github.com/user-attachments/assets/8d692f29-46f7-43b4-bd4f-a059a6dad40e" />
 
 
 ### Project opened in Unity 6
