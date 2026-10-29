@@ -67,8 +67,8 @@ All tests passed in Unity `6000.6.7f1`.
 
 | Suite | Passed | Failed |
 |---|---|---|
-| PlayMode | 6 | 0 |
-| EditMode | 3 | 0 |
+| EditMode | 6 | 0 |
+| PlayMode | 3 | 0 |
 
 ### EditMode results
 
