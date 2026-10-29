@@ -1,4 +1,4 @@
-# Coin Collector — Unity Test Framework POC # Unity_Testing_PO_01
+# Coin Collector — Unity Test Framework POC
 
 A tiny game used to show the basics of the **Unity Test Framework (UTF)**.
 The **Player** moves with the arrow keys. When it touches a **Coin**, it scores points and the coin disappears.
