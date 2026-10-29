@@ -80,7 +80,7 @@ All tests passed in Unity `6000.6.7f1`.
 
 ### Project opened in Unity 6
 
-![Project opened in Unity 6](Evidences/a1.png)
+![Project opened in Unity 6](<img width="900" height="458" alt="29_10_2026_16_30_02_REC" src="https://github.com/user-attachments/assets/cae857be-6df1-4f47-b2a1-6177118554de" />)
 
 ### Test run (EditMode and PlayMode)
 
