@@ -86,7 +86,3 @@ All tests passed in Unity `6000.6.7f1`.
 ### Project opened in Unity 6
 
 ![Project opened in Unity 6](https://github.com/user-attachments/assets/cae857be-6df1-4f47-b2a1-6177118554de)
-
-### Test run (EditMode and PlayMode)
-
-[▶ Watch the test run video](Evidences/b2.mp4)
